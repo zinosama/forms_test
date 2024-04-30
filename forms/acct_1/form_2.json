@@ -2,9 +2,8 @@
   "name": "Employment Eligibility Verification [I-9] ",
   "description": "Form I-9 (2023), optimized for authorized representative review",
   "rules": {
-    "fact": "employer.address.city",
+    "fact": "employer.address.state",
     "operator": "equal",
-    "value": "Chicago"
+    "value": "IL"
   },
- "foo": "bar!"
 }
