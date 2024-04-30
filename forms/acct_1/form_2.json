@@ -4,6 +4,7 @@
   "rules": {
     "fact": "employer.address.city",
     "operator": "equal",
-    "value": "CANADA"
+    "value": "Chicago"
   },
+ "foo": "bar"
 }
