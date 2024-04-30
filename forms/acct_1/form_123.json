@@ -1,0 +1,9 @@
+{
+  "name": "Employment Eligibility Verification [I-9] ",
+  "description": "Form I-9 (2023), optimized for authorized representative review",
+  "rules": {
+    "fact": "employer.address.country",
+    "operator": "equal",
+    "value": "US"
+  }
+}
