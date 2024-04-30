@@ -4,6 +4,6 @@
   "rules": {
     "fact": "employer.address.state",
     "operator": "equal",
-    "value": "IL"
+    "value": "CA"
   },
 }
